@@ -8,4 +8,4 @@ It saves overhaul resources when you are tabbed out, or afk for more than 5 minu
 
 From my personal experience, using only Optifine and Patcher, adding this mod increased my FPS from ~100 to ~570 in a void world.
 
-From ![image](https://user-images.githubusercontent.com/100393544/155641926-c3afc033-b02d-4185-bb57-e56d300f115c.png) fps to ![image](https://user-images.githubusercontent.com/100393544/155641985-e60d0fb4-fbcd-465d-a4e1-be9abe2e3428.png) FPS by simply installing the mod!
+From ![image](https://user-images.githubusercontent.com/100393544/155641926-c3afc033-b02d-4185-bb57-e56d300f115c.png) to ![image](https://user-images.githubusercontent.com/100393544/155641985-e60d0fb4-fbcd-465d-a4e1-be9abe2e3428.png) by simply installing the mod!
